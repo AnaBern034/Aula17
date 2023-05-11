@@ -77,5 +77,5 @@ public class Exercicio1 {
                         System.exit(0);}
                 }
         return "";
-    }
+    };
 }
