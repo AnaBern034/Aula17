@@ -28,7 +28,7 @@ public class Exercicio3 {
         } else if (nota < 6.0);{
             return "E";}
 
-    }
+    }.
 
     }
 
